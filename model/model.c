@@ -1,0 +1,2 @@
+int sex;
+float age;
